@@ -19,6 +19,7 @@ Após 4 sprints realizados, decidimos recomeçar o projeto e realizar um portal 
 
 Sprint 5: [Site](https://guilherme4garcia.github.io/PI_SPC/)
 
+
 ## Tecnologia utilizada:
 HTML 5 / CSS
 
@@ -38,4 +39,7 @@ Wordpress
 
 Sandro
 
+## Proximas atualizações:
 
+- Colocar vídeo intuitivo explicando o que é score.
+- Interface de Bate-papo
