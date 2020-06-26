@@ -17,7 +17,9 @@ Após 4 sprints realizados, decidimos recomeçar o projeto e realizar um portal 
 
 ## Tecnologia utilizada:
 HTML 5 / CSS
+
 Javascript
+
 Wordpress
 
 
