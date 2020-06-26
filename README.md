@@ -17,7 +17,7 @@ Após 4 sprints realizados, decidimos recomeçar o projeto e realizar um portal 
 
 ## Entregas:
 
-[Sprint 5](https://github.com/guilherme4garcia/PI_SPC/tree/master/Sprint_5)
+Sprint 5: [Site](https://guilherme4garcia.github.io/PI_SPC/)
 
 ## Tecnologia utilizada:
 HTML 5 / CSS
