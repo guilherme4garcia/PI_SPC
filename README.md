@@ -15,6 +15,10 @@ A empresa SPC Brasil propôs aos alunos da FATEC-SJC construir um sistema que se
 
 Após 4 sprints realizados, decidimos recomeçar o projeto e realizar um portal na web de ajuda e suporte ao usuário, interligada com o site do SPC Brasil, visando tirar as principais dúvidas em relação ao Score que o usuário possa ter. Também nesse portal vai haver um vídeo explicativo de como usar e para que serve o Score e caso a dúvida dele não seja respondida, vai haver uma central de ajuda para ele enviar a sua pergunta.
 
+## Entregas:
+
+[Sprint 5](https://github.com/guilherme4garcia/PI_SPC/tree/master/Sprint_5)
+
 ## Tecnologia utilizada:
 HTML 5 / CSS
 
@@ -33,3 +37,5 @@ Wordpress
 [Everton Luiz](https://github.com/TomLuiz)
 
 Sandro
+
+
