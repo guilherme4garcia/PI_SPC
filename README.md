@@ -17,7 +17,7 @@ Após 4 sprints realizados, decidimos recomeçar o projeto e realizar um portal 
 
 ## Entregas:
 
-Sprint 5: [Site](https://guilherme4garcia.github.io/PI_SPC/)
+Sprint 5: [Para acessar o site clique aqui](https://guilherme4garcia.github.io/PI_SPC/)
 
 
 ## Tecnologia utilizada:
