@@ -16,16 +16,21 @@ Nosso projeto é uma aplicação que gera notificações para clientes, através
 
 ## Entregas:
 
-Sprint 5: [Site de Suporte ao Cliente](https://guilherme4garcia.github.io/PI_SPC/)
-Sprint 6: 
+- Sprint 5: [Site de Suporte ao Cliente](https://guilherme4garcia.github.io/PI_SPC/)
+- Sprint 6: [Aplicação Notificar Clientes](https://github.com/lucassilva676/PI_SPC/tree/master/Sprint_6/Aplica%C3%A7%C3%A3o%20Verificar%20Clientes)
 
 
 ## Tecnologia utilizada:
 
+Linguagem utilizada:
 - [Python](https://www.python.org/)
+
+Bibliotecas necessárias para o funcionamento da aplicação:
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [SQLite3](https://www.sqlite.org/index.html)
 - [MIMEText](https://docs.python.org/3.4/library/email-examples.html)
+
+Ferramentas para criação do site
 - [Javascript](https://www.javascript.com/)
 - [Wordpress](https://br.wordpress.org/)
 
