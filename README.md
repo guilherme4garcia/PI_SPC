@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/guilherme4garcia/PI_SPC/blob/master/images/LogoFINAL.jpg?raw=true)
+![enter image description here](https://github.com/guilherme4garcia/PI_SPC/blob/master/images/logo%20fatec.png?raw=true)
 
 # Projeto Integrador 2º Período ADS
 
