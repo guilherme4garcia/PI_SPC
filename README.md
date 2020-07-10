@@ -19,8 +19,8 @@ Nossa projeto é uma aplicação que gera notificações para clientes, através
 
 ## Entregas:
 
-Sprint 5: [Site de Suporte ao Cliente](https://guilherme4garcia.github.io/PI_SPC/)
-Sprint 6: 
+- Sprint 5: [Site de Suporte ao Cliente](https://guilherme4garcia.github.io/PI_SPC/)
+- Sprint 6: 
 
 
 ## Tecnologia utilizada:
